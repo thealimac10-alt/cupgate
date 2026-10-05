@@ -1,0 +1,9 @@
+{
+  "_comment": "Sheet: boss-fight phases. One row = one phase trigger. Source of truth for Lua/Phases.lua.",
+  "columns": ["id","hpPercentBelow","banner","effect"],
+  "rows": [
+    {"id":"phase1","hpPercentBelow":100,"banner":"WALLOP!","effect":"none"},
+    {"id":"phase2","hpPercentBelow":66,"banner":"PHASE 2!","effect":"none"},
+    {"id":"phase3","hpPercentBelow":33,"banner":"FINAL PHASE!","effect":"none"}
+  ]
+}

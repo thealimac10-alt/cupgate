@@ -1,0 +1,10 @@
+{
+  "_comment": "Sheet: end-of-fight grade by rounds taken (Cuphead-style rank).",
+  "columns": ["id","maxRounds","grade"],
+  "rows": [
+    {"id":"g1","maxRounds":3,"grade":"S"},
+    {"id":"g2","maxRounds":5,"grade":"A"},
+    {"id":"g3","maxRounds":8,"grade":"B"},
+    {"id":"g4","maxRounds":9999,"grade":"C"}
+  ]
+}

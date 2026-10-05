@@ -1,0 +1,11 @@
+{
+  "_comment": "Sheet: game hooks used. Every hook must be verified in-game before release.",
+  "columns": ["id","osirisEvent","verified"],
+  "rows": [
+    {"id":"fightStart","osirisEvent":"CombatStarted","verified":false},
+    {"id":"roundTick","osirisEvent":"CombatRoundStarted","verified":false},
+    {"id":"hpChange","osirisEvent":"StatusApplied/Damaged (TBD)","verified":false},
+    {"id":"fightEnd","osirisEvent":"CombatEnded","verified":false},
+    {"id":"banner","osirisEvent":"Osi.ShowNotification","verified":false}
+  ]
+}
